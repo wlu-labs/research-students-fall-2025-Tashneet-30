@@ -29,4 +29,22 @@
 **Next Steps:**  
 - Begin reading selected research papers.  
 - Follow a relevant course/tutorial for **SLR** and **bibliometric analysis**.  
-- Gain practical hands-on experience with the tools.  
+- Gain practical hands-on experience with the tools.
+
+### Weekly Meeting Notes  
+**Date:** 2025-09-12  
+
+**Updates:**  
+- Looked into **Clarivate** for literature review tools.  
+- Completed setup of **DTUMOS** locally.  
+- Explored **Biblioshiny** for literature review.  
+- Read one research paper related to **EV tasks objectives**.  
+
+**Challenges:**  
+- Need to run **DTUMOS** on a local dataset of any city/country.  
+- Selecting the most relevant papers for **EV objectives** is still in progress.  
+
+**Next Steps:**  
+- Run **DTUMOS** using a local dataset.  
+- Continue reading and summarizing **EV-related research papers**.  
+- Deepen understanding of literature review tools (**VOS** etc).
