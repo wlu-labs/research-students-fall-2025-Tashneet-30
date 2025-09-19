@@ -48,3 +48,27 @@
 - Run **DTUMOS** using a local dataset.  
 - Continue reading and summarizing **EV-related research papers**.  
 - Deepen understanding of literature review tools (**VOS** etc).
+
+
+
+### Weekly Meeting Notes  
+**Date:** 2025-09-17  
+
+**Updates:**  
+- Looked into Biblioshiny
+- DTUMOS setup done locally. 
+- Explored **VOSViewer** for literature review.  
+
+**Challenges:**  
+- Need to run **DTUMOS** on a local dataset of any city/country.  
+- Selecting the most relevant papers for **EV objectives** is still in progress. 
+- Detailed review of SLR and tools and also understand the algorithm behing them.  
+
+**Next Steps:**  
+- Run **DTUMOS** using a local dataset.  
+- Continue reading and summarizing **EV-related research papers**.  
+- Deepen understanding of literature review tools (**VOS** etc).
+
+
+
+
